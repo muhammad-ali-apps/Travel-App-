@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "532243801060",
+    "project_id": "travalbooksocial",
+    "storage_bucket": "travalbooksocial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532243801060:android:81111672f24ac402b61df1",
+        "android_client_info": {
+          "package_name": "com.example.traval_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532243801060-kophvmke85ui73qaev73he8dhp246tad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traval_book",
+            "certificate_hash": "244953b7adf2614fd52bc96199ba6988a6407eeb"
+          }
+        },
+        {
+          "client_id": "532243801060-l94clm6puubrseoi70sv8gb9k5s107g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqeiPh7h3XE-5Pr8Hp-ONishiXVhaBuiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532243801060-l94clm6puubrseoi70sv8gb9k5s107g1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532243801060-sdljvgv1fv7eu2g1r7jl856afqqpr2dd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travalBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
